@@ -42,10 +42,12 @@ This repository includes pre-trained models for various text generation tasks. Y
 - Character-level text generation
 - Word-level text generation
 - Fine-tuned models for specific domains (e.g., poetry, Short stories)
+- A fine tuned Chatbot that can answer Questions based on a 'story' it is given
 
 ## Data
 
-The quality and diversity of your training data greatly affect the performance of your text generation model. You can use your own datasets or find publicly available text corpora to train your models. Ensure your data is preprocessed and organized properly before training.
+-The quality and diversity of your training data greatly affect the performance of your text generation model. You can use your own datasets or find publicly available text corpora to train your models. Ensure your data is preprocessed and organized properly before training.
+- The Chatbot data is derived from the Facebook BaBi dataset 
 
 ## Training
 
